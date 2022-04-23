@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #000;
+}
+
+canvas{
+  background-color: #FFF;
+  border-radius: 5rem;
+}
